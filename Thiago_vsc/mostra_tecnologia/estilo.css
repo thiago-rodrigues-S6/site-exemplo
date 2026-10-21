@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #0f0f0f;
+    background-color: #f5f5f5;
+}
+
+h1 , h2 {
+        text-align: center;
+        color: rgba(3, 74, 139, 0.767)
+}
+.classe1{
+    color: rgb(196, 183, 7);
+    border: black;
+}
+.classe2{
+    font-size: 1.25rem;
+}
+.evento{
+    max-width: 700px;
+    margin: 40px 
+    auto;                
+    padding: 24px;
+    border: 2px solid #f71212;
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 15px auto;
+}
+
+a{
+    color: #af0404;
+}
+a:hover{
+    color: #0552b8;
+    text-decoration: underline;
+}

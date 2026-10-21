@@ -1,0 +1,62 @@
+    body{ 
+        background-color: gray;;
+    }
+
+    div.cabecalho{
+        width: 1300px;
+        height: 200px;
+        background-color: white;
+        border-top: solid black 10px;
+        border-bottom: solid red 10px;
+    }
+        #FirstDiv{
+            border: 32px solid rgb(247, 0, 0); 
+            background-color: aquamarine; 
+            width: 200px;
+            padding: 5px; 
+            margin: 5px;
+        }
+        #SecondDiv{
+         border: 22px solid rgb(132, 134, 4);
+         background-color: rgb(218, 185, 233); 
+         width: 200px;
+         padding: 5px; 
+         margin: 5px;
+        }
+        *{
+            margin: 0 auto 
+        }
+        div.caixa1{
+            width: 1300px;
+            height: 400px;
+            background-color: white;
+            margin-top: 5px;
+            display:flex 
+        }
+        div.caixinha{
+            flex:1;
+            margin:2px; 
+            background-color: rgba(156, 7, 7, 0.884);
+        }
+         div.caixinha10{
+            flex:1;
+            margin:2px; 
+            background-color: rgba(17, 16, 16, 0.986);
+        }
+        div.caixinha09ew{
+            flex:1;
+            margin:2px; 
+            background-color: rgba(247, 246, 246, 0.959);
+        }
+        .imagem{
+            width:430px; 
+            height:250px;
+        }
+        .caixinha h1, .caixinha10 h1, .caixinha09 h1{
+            padding-left: 5px;
+            padding-right: 5px;
+            font-family: calibri;
+            font-size: 40px;
+        }
+
+  
